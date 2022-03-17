@@ -13,7 +13,7 @@
 
 [SitMap](https://github.com/chaitee27/ChaiteeDuttaGuha_T1A2/blob/main/Site%20Map-Portfolio.pdf)
 
-[Screenshot](https://github.com/chaitee27/ChaiteeDuttaGuha_T1A2/tree/main/Wireframe)
+[Screenshot](https://github.com/chaitee27/ChaiteeDuttaGuha_T1A2/blob/main/Presentation%20including%20W%2BMap.pdf)
 
  Please see my Website and give me job so I can learning from practical working proses.It will help me to build my knowledge and Future grow.
 
