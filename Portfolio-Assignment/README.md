@@ -15,9 +15,8 @@
 
 [Screenshot](https://github.com/chaitee27/ChaiteeDuttaGuha_T1A2/blob/main/Presentation%20including%20W%2BMap.pdf)
 
- Please see my Website and give me job so I can learning from practical working proses.It will help me to build my knowledge and Future grow.
-
-
+ Since , the course that I am persuing is an online certification, so firstly, my target audience are my educators who has helped me to acheive this website today. Furthuremore, in the future i would love to represent my website to a company as a part of my interview, so that I persue more knowledge in the fields of the features that I have used in my project.
+ 
 
 <br>
 In this portfolio I used html , sass , Fredoka One as a font , for icon style I choose from google (fas-fa..)
